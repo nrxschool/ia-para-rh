@@ -145,5 +145,3 @@ Este curso capacita profissionais de Recursos Humanos a utilizarem a Inteligênc
 **Conclusão**
 
 Este material foi cuidadosamente elaborado para fornecer ao profissional de RH um panorama completo sobre o uso de Inteligência Artificial e Engenharia de Prompt na gestão de pessoas. As ferramentas apresentadas e os prompts sugeridos visam otimizar processos, melhorar a comunicação e aprimorar a tomada de decisões no ambiente organizacional. Ao implementar essas técnicas e soluções, você estará preparado para enfrentar os desafios do mercado de trabalho atual, tornando o RH ainda mais estratégico e eficiente.
-
-> **Baixe ou salve este documento** para ter fácil acesso aos recursos e às referências sempre que precisar!
